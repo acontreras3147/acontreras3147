@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acontreras3147
 - 👀 I’m interested in football, surfing, video games, weight lifing.
-- 🌱 I’m currently improving my java skills and want to learn front end development.
+- 🌱 I’m currently improving my Java/HTML/CSS/Javascript skills and want to learn front end development.
 - 💞️ I’m looking to get better at interviewing to land my first internship.
 - 📫 Email: acontreras3147@gmail.com
 
